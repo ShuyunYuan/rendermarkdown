@@ -26,3 +26,7 @@ Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the app 
 ## Tech stack
 
 React, [Tiptap](https://tiptap.dev)/[ProseMirror](https://prosemirror.net) (MIT) for the rendered editing surface and Markdown serialization, Tailwind CSS v4, and Vite.
+
+## License
+
+[MIT](LICENSE)
